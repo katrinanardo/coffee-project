@@ -1,7 +1,3 @@
-<?php 
-include 'authenticate.php';
-$profpic = "images/bg.jpg";
- ?>
 
  <!DOCTYPE html>
  <html>
